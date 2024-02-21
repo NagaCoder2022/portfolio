@@ -1,10 +1,10 @@
 /*import fonts from fonts.css file*/
-@import url(./fonts.css);
+@import url(fonts.css);
 /*start navigation*/
 /*css variables*/
-@import url(./variables.css);
+@import url(variables.css);
 /*import global styling*/
-@import url(./global.css);
+@import url(global.css);
 .header_area .main-menu .navbar .navbar-brand{
     padding:0 2rem 0 1rem;
 }
@@ -33,17 +33,17 @@
     overflow: hidden;
 }
 body{
-        background-image: url("../img/naga1.jpeg");
+        background-image: url("naga1.jpeg");
         background-repeat: no-repeat;
         background-size: cover;
 }
 /*.main-menu{
-    background-image: url("./naga1.jpeg");   
+    background-image: url("naga1.jpeg");   
 }*/
 /*end navigation*/
 /*Banner Area*/
 .site-main .brand-area {
-    background-image: url("./naga2.jpeg");
+    background-image: url("naga2.jpeg");
     background-repeat: repeat;
     background-size: cover;
     /* Adjust other background properties as needed */
